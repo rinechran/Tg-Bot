@@ -1,10 +1,9 @@
-# -*- coding: <encoding name> -*-
 import subprocess
 import threading
 import os
 import re
 
-class TG:
+class Tg:
     PUB_FILE =None
     PATH = None
     proc = None
